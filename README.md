@@ -1,5 +1,5 @@
 # Data annotation🤖🖥📅
-- # Cretive idea by @danish Ashraf🧍‍♂️ 
+- # Creative idea by @danish Ashraf🧍‍♂️ 
 - Load yolov4 || Yolov3 weights  in opencv , shortcut to annotate data.
 - Then retouch labels in any software 
 - Train your model and repeat process again 
